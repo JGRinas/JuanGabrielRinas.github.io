@@ -296,6 +296,18 @@ otros
 
 /*Proyectos*/
 
+.prejects-nav{
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+.prejects-nav a{
+  text-decoration: none;
+  color: #f2f2f2a4;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
 .project-item {
   display: flex;
   margin: 20px;
